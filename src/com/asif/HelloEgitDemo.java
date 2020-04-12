@@ -11,4 +11,9 @@ public class HelloEgitDemo {
 
 		myMethod();
 	}
+	
+	private void newMethod() {
+		// TODO Auto-generated method stub
+
+	}
 }
